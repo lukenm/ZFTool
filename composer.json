@@ -15,7 +15,8 @@
     "autoload": {
         "psr-0": {
             "ZFTool\\": "src/"
-        }
+        },
+        "classmap": ["Module.php"]
     },
     "require": {
         "php": ">=5.3.3",
